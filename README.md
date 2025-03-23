@@ -1,5 +1,8 @@
-## Hi there 👋
-
+**Yo bro! 🙈 Vincent Lee here 😎**  
+-💻 Full-stack .NET developer with 8+ years of experience in building web apps and services.  
+-🚀 Enthusiastic about app modernization, cloud migration (Azure), and CI/CD processes.  
+-🔍 Focused on creating clean, efficient, and easy-to-understand solutions.  
+-🤝 Let's connect if you need a dedicated Full-stack .NET developer!
 <!--
 **davinceleecode/davinceleecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

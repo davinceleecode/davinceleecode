@@ -2,7 +2,7 @@
 #### 💻.NET developer with 9+ years of experience in building web apps and services.  
 #### 🚀 Enthusiastic about app modernization, cloud migration (Azure), and CI/CD processes.  
 #### 🔍 Focused on creating clean, efficient, and easy-to-understand solutions.  
-#### 🤝 Let's connect if you need a dedicated Full-stack .NET developer!
+#### 🤝 Let's connect if you need a dedicated .NET developer!
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">

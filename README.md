@@ -1,7 +1,7 @@
 # Yo! 🙈 Vincent Lee here 👋
-#### 💻.NET developer with 9+ years of experience in building web apps and services.  
-#### 🚀 Enthusiastic about app modernization, cloud migration (Azure), and CI/CD processes.  
-#### 🔍 Focused on creating clean, efficient, and easy-to-understand solutions.  
+#### 💻 .NET developer with 9+ years of experience in building desktop applications, automation solutions, and services. I have some experience working on a .NET MVC project and am now transitioning my skills to web development.
+#### 🚀 Passionate about app modernization, cloud migration (Azure), and CI/CD implementation.  
+#### 🔍 Committed to writing clean, efficient, and maintainable code.  
 #### 🤝 Let's connect if you need a dedicated .NET developer!
 
 

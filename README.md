@@ -1,8 +1,10 @@
 # Yo! 🙈 Vincent Lee here 👋
-#### 💻 .NET developer with 9+ years of experience in building desktop applications, automation solutions, and services. I have some experience working on a .NET MVC project and am now transitioning my skills to web development.
-#### 🚀 Passionate about app modernization, cloud migration (Azure), and CI/CD implementation.  
-#### 🔍 Committed to writing clean, efficient, and maintainable code.  
-#### 🤝 Let's connect if you need a dedicated .NET developer!
+#### 💻 .NET developer with 9+ years of experience in desktop applications, automation, and services. Recently transitioning into web development with .NET.
+#### ⚙️ Passionate about problem solving and optimizing workflows.  
+#### 🌐 Experienced in back-end development using ASP.NET MVC and ASP.NET Web API (RESTful, Code-First, Entity Framework).  
+#### 💡 Actively working with JavaScript/TypeScript and React for front-end development.
+#### 🔍 Focused on writing clean, efficient, and maintainable code.
+#### 🤝 Always open to new opportunities and connections in the .NET development space!
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">

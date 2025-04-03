@@ -24,8 +24,8 @@
 
 &nbsp;
 
-<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=davinceleecode&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinceleecode&langs_count=8&theme=radical&layout=compact"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=davinceleecode&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinceleecode&langs_count=8&theme=radical&layout=compact"/>
 
 
 <!--

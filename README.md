@@ -21,6 +21,13 @@
 <a href="https://dev.to/davinceleecode">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="50" height="50" />
 </a> &nbsp;
+
+&nbsp;
+
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=davinceleecode&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinceleecode&langs_count=8&theme=radical&layout=compact"/>
+
+
 <!--
 **davinceleecode/davinceleecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

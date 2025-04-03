@@ -21,6 +21,13 @@
 <a href="https://dev.to/davinceleecode">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="50" height="50" />
 </a> &nbsp;
+<a href="https://gist.github.com/davinceleecode">
+  <img src="/github-mark-white.svg" width="50" height="50" />
+</a> &nbsp;
+<a href="https://codepen.io/davinceleecode">
+  <img src="/codepen.png" width="50" height="50" />
+</a> &nbsp;
+
 
 &nbsp;
 

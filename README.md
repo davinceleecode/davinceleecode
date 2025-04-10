@@ -63,6 +63,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=docker)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=azure)
 ![Canva](https://img.shields.io/badge/-Canva-orange?style=flat-square&logo=canva&logoColor=white)
+![Codeium](https://img.shields.io/badge/-Codeium-4C4CFF?style=flat-square&logo=codeium&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Emmet](https://img.shields.io/badge/-Emmet-1F8B4C?style=flat-square&logo=emmet&logoColor=white)
 
 
 

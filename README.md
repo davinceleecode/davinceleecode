@@ -75,8 +75,8 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=davinceleecode&show_icons=true&theme=github_dark&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinceleecode&langs_count=8&theme=github_dark&layout=compact"/> 
 
-&nbsp;
 
-
+## 🏆 GitHub Trophies
+<img alt="my stats" align="left" width="80%" src="https://github-profile-trophy.vercel.app/?username=davinceleecode&theme=darkhub"/>
 
 

@@ -27,21 +27,21 @@
 
 🖥 Programming Languages (PL):
 
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-C%23-3A7B8C?style=flat-square&logo=csharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2F73C8?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=flat-square&logo=css3)
 
 🗄 Databases (DB):
 
-![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft-sql-server)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![MSSQL](https://img.shields.io/badge/-MSSQL-2771C2?style=flat-square&logo=microsoft-sql-server)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 
 🛠 Frameworks & Libraries:
 
-![.NET](https://img.shields.io/badge/-NET-black?style=flat-square&logo=.net)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net)
+![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)

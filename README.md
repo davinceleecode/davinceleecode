@@ -42,24 +42,29 @@
 
 ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net)
 ![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=flat-square&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-blue?style=flat-square&logo=node.js)
+![Babel](https://img.shields.io/badge/-Babel-ligthblue?style=flat-square&logo=babel)
+![Sass](https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=sass)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
 
 🧰 Tools:
 
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=flat-square&logo=adobexd)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat-square&logo=adobe-premiere-pro)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobe-photoshop)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure)
+![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=flat-square&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF4081?style=flat-square&logo=adobexd)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-FF5722?style=flat-square&logo=adobe-premiere-pro)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-005A8C?style=flat-square&logo=adobe-photoshop)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-green?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=azure)
+![Canva](https://img.shields.io/badge/-Canva-orange?style=flat-square&logo=canva&logoColor=white)
+
+
 
 ---
 

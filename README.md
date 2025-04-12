@@ -27,49 +27,49 @@
 
 🖥 Programming Languages (PL):
 
-![C#](https://img.shields.io/badge/-C%23-3A7B8C?style=flat-square&logo=csharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2F73C8?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-C%23-3A7B8C?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2F73C8?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=for-the-badge&logo=css3)
 
 🗄 Databases (DB):
 
-![MSSQL](https://img.shields.io/badge/-MSSQL-2771C2?style=flat-square&logo=microsoft-sql-server)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+![MSSQL](https://img.shields.io/badge/-MSSQL-2771C2?style=for-the-badge&logo=microsoft-sql-server)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 🛠 Frameworks & Libraries:
 
-![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net)
-![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=flat-square&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-blue?style=flat-square&logo=node.js)
-![Babel](https://img.shields.io/badge/-Babel-ligthblue?style=flat-square&logo=babel)
-![Sass](https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=sass)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![.NET](https://img.shields.io/badge/-NET-512BD4?style=for-the-badge&logo=.net)
+![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=for-the-badge&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)
+![Babel](https://img.shields.io/badge/-Babel-ligthblue?style=for-the-badge&logo=babel)
+![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
 🧰 Tools:
 
-![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=flat-square&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF4081?style=flat-square&logo=adobexd)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-FF5722?style=flat-square&logo=adobe-premiere-pro)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-005A8C?style=flat-square&logo=adobe-photoshop)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-green?style=flat-square&logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=docker)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=azure)
-![Canva](https://img.shields.io/badge/-Canva-orange?style=flat-square&logo=canva&logoColor=white)
-![Codeium](https://img.shields.io/badge/-Codeium-4C4CFF?style=flat-square&logo=codeium&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Emmet](https://img.shields.io/badge/-Emmet-1F8B4C?style=flat-square&logo=emmet&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/-Automation_AnyWhere-orange?style=flat-square&logo=AA&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-blue?style=flat-square&logo=UiPath&logoColor=white)
-
+![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF4081?style=for-the-badge&logo=adobexd)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-FF5722?style=for-the-badge&logo=adobe-premiere-pro)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-005A8C?style=for-the-badge&logo=adobe-photoshop)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-green?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-yellow?style=for-the-badge&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=azure)
+![Canva](https://img.shields.io/badge/-Canva-orange?style=for-the-badge&logo=canva&logoColor=white)
+![Codeium](https://img.shields.io/badge/-Codeium-4C4CFF?style=for-the-badge&logo=codeium&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+![Emmet](https://img.shields.io/badge/-Emmet-1F8B4C?style=for-the-badge&logo=emmet&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/-Automation_AnyWhere-orange?style=for-the-badge&logo=AA&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-blue?style=for-the-badge&logo=UiPath&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 ---

@@ -67,6 +67,8 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Emmet](https://img.shields.io/badge/-Emmet-1F8B4C?style=flat-square&logo=emmet&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/-Automation_AnyWhere-orange?style=flat-square&logo=AA&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-blue?style=flat-square&logo=UiPath&logoColor=white)
 
 
 

@@ -50,6 +50,8 @@
 ![Babel](https://img.shields.io/badge/-Babel-ligthblue?style=for-the-badge&logo=babel)
 ![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/-AutoMapper-orange?style=for-the-badge&logo=AutoMapper&logoColor=white)
+![MediatR](https://img.shields.io/badge/-MediatR-yellow?style=for-the-badge&logo=MediatR&logoColor=white)
 
 
 🧰 Tools:

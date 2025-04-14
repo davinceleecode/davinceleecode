@@ -79,6 +79,8 @@
 ![Automation Anywhere](https://img.shields.io/badge/-Automation_AnyWhere-orange?style=for-the-badge&logo=AA&logoColor=white)
 ![UiPath](https://img.shields.io/badge/-UiPath-blue?style=for-the-badge&logo=UiPath&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/-dbdiagram.io-grey?style=for-the-badge&logo=dbdiagram.io&logoColor=white)
+
 
 
 ---

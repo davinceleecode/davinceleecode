@@ -32,6 +32,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F73C8?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=for-the-badge&logo=css3)
+![VB6](https://img.shields.io/badge/-VB6-green?style=for-the-badge&logo=VB6)
+![VBA](https://img.shields.io/badge/-VBA-yellow?style=for-the-badge&logo=VBA)
 
 🗄 Databases (DB):
 
@@ -52,6 +54,11 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![AutoMapper](https://img.shields.io/badge/-AutoMapper-orange?style=for-the-badge&logo=AutoMapper&logoColor=white)
 ![MediatR](https://img.shields.io/badge/-MediatR-yellow?style=for-the-badge&logo=MediatR&logoColor=white)
+![AngleSharp](https://img.shields.io/badge/-AngleSharp-green?style=for-the-badge&logo=AngleSharp&logoColor=white)
+![HtmlAgilityPack](https://img.shields.io/badge/-Html_AgilityPack-lightblue?style=for-the-badge&logo=HtmlAgilityPack&logoColor=white)
+![AutoitX3Lib](https://img.shields.io/badge/-AutoitX3Lib-red?style=for-the-badge&logo=AutoitX3Lib&logoColor=white)
+![Entity_Framework](https://img.shields.io/badge/-Entity_Framework-purple?style=for-the-badge&logo=Entity_Framework&logoColor=white)
+ 
 
 
 🧰 Tools:

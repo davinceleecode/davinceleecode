@@ -58,6 +58,7 @@
 ![HtmlAgilityPack](https://img.shields.io/badge/-Html_AgilityPack-lightblue?style=for-the-badge&logo=HtmlAgilityPack&logoColor=white)
 ![AutoitX3Lib](https://img.shields.io/badge/-AutoitX3Lib-red?style=for-the-badge&logo=AutoitX3Lib&logoColor=white)
 ![Entity_Framework](https://img.shields.io/badge/-Entity_Framework-purple?style=for-the-badge&logo=Entity_Framework&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-Styled_Components-brown?style=for-the-badge&logo=Styled_Components&logoColor=white)
  
 
 

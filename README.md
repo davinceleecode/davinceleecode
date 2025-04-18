@@ -59,6 +59,8 @@
 ![AutoitX3Lib](https://img.shields.io/badge/-AutoitX3Lib-red?style=for-the-badge&logo=AutoitX3Lib&logoColor=white)
 ![Entity_Framework](https://img.shields.io/badge/-Entity_Framework-purple?style=for-the-badge&logo=Entity_Framework&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-brown?style=for-the-badge&logo=Styled_Components&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra_UI-blue?style=for-the-badge&logo=Chakra_UI&logoColor=white)
+![Daisy UI](https://img.shields.io/badge/-Daisy_UI-pink?style=for-the-badge&logo=Daisy_UI&logoColor=white)
  
 
 

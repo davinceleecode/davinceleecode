@@ -61,6 +61,7 @@
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-brown?style=for-the-badge&logo=Styled_Components&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-blue?style=for-the-badge&logo=Chakra_UI&logoColor=white)
 ![React_Icons](https://img.shields.io/badge/-React_Icons-silver?style=for-the-badge&logo=React_Icons&logoColor=white)
+![Immer](https://img.shields.io/badge/-Immer-green?style=for-the-badge&logo=Immer&logoColor=white)
  
 
 

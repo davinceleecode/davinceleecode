@@ -62,6 +62,8 @@
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-blue?style=for-the-badge&logo=Chakra_UI&logoColor=white)
 ![React_Icons](https://img.shields.io/badge/-React_Icons-silver?style=for-the-badge&logo=React_Icons&logoColor=white)
 ![Immer](https://img.shields.io/badge/-Immer-green?style=for-the-badge&logo=Immer&logoColor=white)
+![React-Hook-Form](https://img.shields.io/badge/-React_Hook_Form-pink?style=for-the-badge&logo=react-hook-form&logoColor=black)
+![Zod](https://img.shields.io/badge/-Zod-darkblue?style=for-the-badge&logo=Zod&logoColor=White)
  
 
 

@@ -46,11 +46,7 @@
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
-<!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=for-the-badge&logo=tailwind-css)-->
-<!--![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)-->
-<!--![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)-->
 ![Babel](https://img.shields.io/badge/-Babel-ligthblue?style=for-the-badge&logo=babel)
-<!--![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)-->
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![AutoMapper](https://img.shields.io/badge/-AutoMapper-orange?style=for-the-badge&logo=AutoMapper&logoColor=white)
 ![MediatR](https://img.shields.io/badge/-MediatR-yellow?style=for-the-badge&logo=MediatR&logoColor=white)
@@ -64,7 +60,10 @@
 ![Immer](https://img.shields.io/badge/-Immer-green?style=for-the-badge&logo=Immer&logoColor=white)
 ![React-Hook-Form](https://img.shields.io/badge/-React_Hook_Form-pink?style=for-the-badge&logo=react-hook-form&logoColor=black)
 ![Zod](https://img.shields.io/badge/-Zod-darkblue?style=for-the-badge&logo=Zod&logoColor=White)
- 
+<!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=for-the-badge&logo=tailwind-css)-->
+<!--![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)-->
+<!--![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)-->
+<!--![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)-->
 
 
 🧰 Tools:

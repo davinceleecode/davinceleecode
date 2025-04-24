@@ -60,6 +60,7 @@
 ![Immer](https://img.shields.io/badge/-Immer-green?style=for-the-badge&logo=Immer&logoColor=white)
 ![React-Hook-Form](https://img.shields.io/badge/-React_Hook_Form-pink?style=for-the-badge&logo=react-hook-form&logoColor=black)
 ![Zod](https://img.shields.io/badge/-Zod-darkblue?style=for-the-badge&logo=Zod&logoColor=White)
+![Axios](https://img.shields.io/badge/-Axios-violet?style=for-the-badge&logo=Axios&logoColor=White)
 <!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=for-the-badge&logo=tailwind-css)-->
 <!--![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)-->
 <!--![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)-->

@@ -46,7 +46,6 @@
 ![.NET](https://img.shields.io/badge/-NET-512BD4?style=for-the-badge&logo=.net)
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
 ![Babel](https://img.shields.io/badge/-Babel-ligthblue?style=for-the-badge&logo=babel)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![AutoMapper](https://img.shields.io/badge/-AutoMapper-orange?style=for-the-badge&logo=AutoMapper&logoColor=white)
@@ -66,6 +65,7 @@
 <!--![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)-->
 <!--![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)-->
 <!--![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)-->
+<!--![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)-->
 
 
 🧰 Tools:

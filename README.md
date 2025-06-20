@@ -70,21 +70,23 @@
 
 🧰 Tools:
 
-![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF4081?style=for-the-badge&logo=adobexd)
+<!--![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=figma)-->
+<!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF4081?style=for-the-badge&logo=adobexd)-->
+<!--![Canva](https://img.shields.io/badge/-Canva-orange?style=for-the-badge&logo=canva&logoColor=white)-->
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-FF5722?style=for-the-badge&logo=adobe-premiere-pro)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-005A8C?style=for-the-badge&logo=adobe-photoshop)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-green?style=for-the-badge&logo=postman)
-![Canva](https://img.shields.io/badge/-Canva-orange?style=for-the-badge&logo=canva&logoColor=white)
 ![Codeium](https://img.shields.io/badge/-Codeium-4C4CFF?style=for-the-badge&logo=codeium&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Emmet](https://img.shields.io/badge/-Emmet-1F8B4C?style=for-the-badge&logo=emmet&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/-Automation_AnyWhere-orange?style=for-the-badge&logo=AA&logoColor=white)
 ![UiPath](https://img.shields.io/badge/-UiPath-blue?style=for-the-badge&logo=UiPath&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![dbdiagram.io](https://img.shields.io/badge/-dbdiagram.io-grey?style=for-the-badge&logo=dbdiagram.io&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![swagger](https://img.shields.io/badge/-swagger-green?style=for-the-badge&logo=swagger&logoColor=white)
+![docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 <!--![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=azure)-->
 <!--![Docker](https://img.shields.io/badge/-Docker-yellow?style=for-the-badge&logo=docker)-->
 

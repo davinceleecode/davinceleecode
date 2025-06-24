@@ -38,7 +38,8 @@
 
 🗄 Databases (DB):
 
-![MSSQL](https://img.shields.io/badge/-MSSQL-2771C2?style=for-the-badge&logo=microsoft-sql-server)
+![MSSQL](https://img.shields.io/badge/-MSSQL-maroon?style=for-the-badge&logo=mssqlserver)
+![MSSQL](https://img.shields.io/badge/-PostgreSQL-green?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 🛠 Frameworks & Libraries:

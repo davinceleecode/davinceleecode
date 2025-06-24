@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davinceleecode&label=Profile%20views&color=0e75b6&style=flat" alt="davinceleecode" /> </p>
 
-#### 💻 .NET dev with experience in desktop apps, automation, and services. Currently diving into web dev with .NET and React (soon exploring Redux, Next.js, and planning to branch into React Native).
+<!--#### 💻 .NET dev with experience in desktop apps, automation, and services. Currently diving into web dev with .NET and React (soon exploring Redux, Next.js, and planning to branch into React Native).
 #### ⚙️ Passionate about problem-solving, optimizing workflows, and writing clean, efficient code.  
 #### 🌐 Experienced in back-end development using ASP.NET MVC and ASP.NET Web API (RESTful, Code-First, Entity Framework).  
 #### 💡 Actively working with JS/TS and React for front-end development.
 #### 🔍 Always curious about new tech and ancient mysteries.
-#### 🤝 Always open to opportunities in the .NET and web dev space!
+#### 🤝 Always open to opportunities in the .NET and web dev space!-->
 
 
 <h3 align="left">Connect with me:</h3>

@@ -22,8 +22,8 @@
 <a href="https://www.leetcode.com/davinceleecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
 </p>
 
----
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 🖥 Programming Languages (PL):
@@ -68,12 +68,13 @@
 <!--![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=sass)-->
 <!--![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)-->
 
-
+<!--
 🧰 Tools:
 
 <!--![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=figma)-->
 <!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF4081?style=for-the-badge&logo=adobexd)-->
 <!--![Canva](https://img.shields.io/badge/-Canva-orange?style=for-the-badge&logo=canva&logoColor=white)-->
+<!--
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-FF5722?style=for-the-badge&logo=adobe-premiere-pro)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-005A8C?style=for-the-badge&logo=adobe-photoshop)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
